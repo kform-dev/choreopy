@@ -18,6 +18,3 @@ dependencies = [
     "typing_extensions==4.12.2"
 ]
 
-#[tool.setuptools]
-#packages = ["src"]
-#py-modules = ["__init__"] # dash, not underscore
