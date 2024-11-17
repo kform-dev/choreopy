@@ -1,0 +1,9 @@
+# Byte-compile / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info
+
+# Virtual environment
+venv/
+.venv/
